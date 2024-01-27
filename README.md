@@ -7,6 +7,9 @@ The data is collected from people of Karnataka through Google forms.
 
 ![p12](https://github.com/dhanashreehampiholi/RFM-analysis-on-Maggi/assets/57892263/3dfbe3e4-8c29-4d75-8ed0-717ab2d42193)
 
+## Data cleaning:
+Data is cleaned for missing values and incorrect entries.
+
 ## RFM Analysis:
 RFM analysis was conducted based on:
 - How often do the respondents purchase Maggi?
