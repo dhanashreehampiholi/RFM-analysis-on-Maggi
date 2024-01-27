@@ -21,6 +21,7 @@ Based on the above three questions on Recency(R), Frequency(F) and Monetory Valu
 ![p13](https://github.com/dhanashreehampiholi/RFM-analysis-on-Maggi/assets/57892263/988f9ee8-4225-497b-a675-36d1a522f7db) 
 ![p14](https://github.com/dhanashreehampiholi/RFM-analysis-on-Maggi/assets/57892263/1fdad51a-f757-4d33-bbc0-228c159dd892)
 ![p15](https://github.com/dhanashreehampiholi/RFM-analysis-on-Maggi/assets/57892263/026fc864-897d-4d27-82bf-f2f978e7f746)
+
 The images show the scores for R, F and M
 
 ![p20](https://github.com/dhanashreehampiholi/RFM-analysis-on-Maggi/assets/57892263/c963503a-1b11-4d3c-a6ee-d9aadbbd4418)
